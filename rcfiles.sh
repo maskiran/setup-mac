@@ -11,3 +11,5 @@ mkdir $HOME/.ssh
 cp "$ICLOUD/sshkeys/id_rsa" $HOME/.ssh/
 cp "$ICLOUD/sshkeys/id_rsa.pub" $HOME/.ssh/
 chmod 600 $HOME/.ssh/id_rsa*
+
+cp "$ICLOUD/rcfiles/aliases.zsh" $HOME/.oh-my-zsh/custom/
