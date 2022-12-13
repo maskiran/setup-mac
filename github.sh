@@ -10,6 +10,7 @@ react-antd-template
 sample-web-app
 sbf-api
 sbf-ui
+setup-mac
 taurus
 terraform-aws-app-vpc
 terraform-azure-app-vnet
