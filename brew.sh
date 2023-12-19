@@ -10,6 +10,7 @@ awscli
 azure-cli
 bat
 colima
+docker
 dog
 firefox
 golang
