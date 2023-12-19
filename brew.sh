@@ -6,10 +6,10 @@ source $HOME/.zprofile
 apps=(
 1password
 adobe-creative-cloud
-amazon-chime
 awscli
 azure-cli
 bat
+colima
 dog
 firefox
 golang
@@ -35,7 +35,6 @@ for app in ${apps[@]}; do
 done
 
 explicit_casks=(
-docker
 wireshark
 )
 
