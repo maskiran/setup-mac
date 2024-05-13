@@ -19,6 +19,7 @@ google-cloud-sdk
 ipcalc
 iterm2
 jq
+lima
 microsoft-teams
 node
 raycast
