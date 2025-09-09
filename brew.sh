@@ -10,8 +10,6 @@ awscli
 azure-cli
 bat
 colima
-docker
-dog
 firefox
 golang
 google-chrome
@@ -20,7 +18,6 @@ ipcalc
 iterm2
 jq
 lima
-microsoft-teams
 node
 raycast
 shottr
@@ -29,18 +26,16 @@ the_silver_searcher
 tldr
 visual-studio-code
 youtube-dl
-zoom
 )
 
 for app in ${apps[@]}; do
     brew install $app
 done
 
-explicit_casks=(
-wireshark
-)
+# explicit_casks=(
+# wireshark
+# )
 
-for app in ${explicit_casks[@]}; do
-    brew install --cask $app
-done
-
+# for app in ${explicit_casks[@]}; do
+#     brew install --cask $app
+# done
