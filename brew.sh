@@ -10,6 +10,7 @@ awscli
 azure-cli
 bat
 colima
+docker
 firefox
 golang
 google-chrome
@@ -17,8 +18,9 @@ google-cloud-sdk
 ipcalc
 iterm2
 jq
-lima
+ollama-app
 node
+python3
 raycast
 shottr
 terraform
