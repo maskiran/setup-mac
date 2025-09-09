@@ -24,6 +24,7 @@ shottr
 terraform
 the_silver_searcher
 tldr
+uv
 visual-studio-code
 youtube-dl
 )
