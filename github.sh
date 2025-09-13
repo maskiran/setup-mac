@@ -2,6 +2,7 @@ repos=(
 aws-vpc
 aws_sns_http_subscriber
 docker-utils
+limavm
 misc
 pytest
 react-antd-itemslist
