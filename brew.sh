@@ -10,6 +10,7 @@ awscli
 azure-cli
 bat
 colima
+cursor
 docker
 firefox
 golang
