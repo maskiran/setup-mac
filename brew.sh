@@ -27,6 +27,7 @@ shottr
 terraform
 the_silver_searcher
 tldr
+upscayl
 uv
 visual-studio-code
 )
