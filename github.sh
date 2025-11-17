@@ -1,6 +1,7 @@
 repos=(
 aws-vpc
 aws_sns_http_subscriber
+csp-resources
 docker-utils
 limavm
 misc
