@@ -16,6 +16,7 @@ taurus
 terraform-aws-app-vpc
 terraform-azure-app-vnet
 terraform-gcp-app-vpc
+upscale
 )
 
 mkdir $HOME/github
