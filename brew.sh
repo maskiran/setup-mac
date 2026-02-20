@@ -30,6 +30,7 @@ tldr
 upscayl
 uv
 visual-studio-code
+yt-dlp
 )
 
 for app in ${apps[@]}; do
