@@ -10,9 +10,9 @@ awscli
 azure-cli
 bat
 colima
-cursor
 docker
 firefox
+ghostty
 golang
 google-chrome
 google-cloud-sdk
